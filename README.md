@@ -22,7 +22,6 @@ List of commands with prefix `[`
 
 ## Fun commands
 List of commands with prefix `Apu` that can only be used in channel #smthy__
-
 | Command | Description |
 | pyramid | Posts a pyramid of the given input |
 | say | Repeats the input after the command prefix |
