@@ -19,10 +19,8 @@ List of commands with prefix `[`
 | ffz | Provides an ffz emote search for the given input |
 | userid | Provides the user id if a given user |
 | myid | Provides the id of the command executer |
-
-## Fun commands
-List of commands with prefix `Apu` that can only be used in channel #smthy__
-| Command | Description |
-| pyramid | Posts a pyramid of the given input |
+| pyramid | Posts a pyramid of the given input  |
 | say | Repeats the input after the command prefix |
 | spam | Spams a phrase a given amount of times |
+
+The pyramid, say and spam commands can only be used in #smthy__ with the prefix `Apu`
