@@ -1,5 +1,5 @@
 # smthybot
-A smol bot I made in js.
+Commands for a smol bot I made in js.
 
 ## Commands 
 List of commands with prefix `[`
@@ -20,7 +20,7 @@ List of commands with prefix `[`
 | userid | Provides the user id if a given user |
 | myid | Provides the id of the command executer |
 
-### Fun commands
+## Fun commands
 List of commands with prefix `Apu` that can only be used in channel #smthy__
 
 | Command | Description |
