@@ -33,7 +33,6 @@ List of commands with prefix `[`
 | uptime | Provides the uptime of the inputed user's stream |
 | vanish | Times out the user who executed the command for 1s |
 | viewcount | Provides the viewcount of the inputed user's stream |
- 
 | pyramid | Posts a pyramid of the given size  |
 | spam | Spams a phrase a given amount of times |
 | fill | Fills a message with the input |
