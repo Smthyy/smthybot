@@ -42,6 +42,8 @@ List of commands with prefix `[`
 | vanish | Times out the user who executed the command for 1s |
 | viewcount | Provides the viewcount of the inputed user's stream |
 | weather | Gives the weather overview of the given location |
+| weit | If a valid emote is inputted, will show the channel it belongs to |
+| whois | Shows basic information about an inputted user |
 | fm | First message of a specified user in the current channel |
 | rl | Random message of a specified user in the current channel 
 | lm | Last message of a specified user in the current channel 
