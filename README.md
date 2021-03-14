@@ -52,4 +52,5 @@ List of commands with prefix `[`
 | fill | Fills a message with the input |
 
 The pyramid, spam and fill commands can only be used in #smthy__ with the prefix `Apu`
+
 The fm, rl and lm commands only work in channels which are logged by https://logs.ivr.fi/
