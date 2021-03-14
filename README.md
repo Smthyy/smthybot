@@ -24,6 +24,7 @@ List of commands with prefix `[`
 | hug | 'hugs' the given user |
 | math | Does math |
 | magic8ball, 8ball | Asks the magic 8 ball a question |
+| mod | Checks how many channels the given user is a mod in |
 | myid | Provides the id of the command executer |
 | partner | Checks if the inputted user is partner or not |
 | ping | Pings the bot 4Head |
