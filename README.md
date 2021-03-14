@@ -15,7 +15,7 @@ List of commands with prefix `[`
 | color | Replies with a color hex of the given user | 
 | colorname | Replies the the colorname of the command executer |
 | commands | Posts the current commands into the channel |
-| dad joke | Returns a random dad joke |
+| dadjoke | Returns a random dad joke |
 | dank | 'danks' the given user |
 | dice | Rolls a dice from 1 to 9 |
 | ffzemotes | Gives the ffz emotes in the current channel |
