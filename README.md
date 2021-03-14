@@ -42,8 +42,12 @@ List of commands with prefix `[`
 | vanish | Times out the user who executed the command for 1s |
 | viewcount | Provides the viewcount of the inputed user's stream |
 | weather | Gives the weather overview of the given location |
+| fm | First message of a specified user in the current channel |
+| rl | Random message of a specified user in the current channel 
+| lm | Last message of a specified user in the current channel 
 | pyramid | Posts a pyramid of the given size  |
 | spam | Spams a phrase a given amount of times |
 | fill | Fills a message with the input |
 
 The pyramid, spam and fill commands can only be used in #smthy__ with the prefix `Apu`
+The fm, rl and lm commands only work in channels which are logged by https://logs.ivr.fi/
