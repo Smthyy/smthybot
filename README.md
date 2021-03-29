@@ -11,9 +11,7 @@ List of commands with prefix `[`
 | accountage | Provides the account age of the given user |
 | bible | Provides a random verse from the bible |
 | bttvemotes | Gives the bttv emotes in the current channel | 
-| bttvsearch | Provides a bttv emote search for the given input | 
-| color | Replies with a color hex of the given user | 
-| colorname | Replies the the colorname of the command executer |
+| bttvsearch | Provides a bttv emote search for the given input |
 | commands | Posts the current commands into the channel |
 | dadjoke | Returns a random dad joke |
 | dank | 'danks' the given user |
@@ -24,8 +22,7 @@ List of commands with prefix `[`
 | hug | 'hugs' the given user |
 | math | Does math |
 | magic8ball, 8ball | Asks the magic 8 ball a question |
-| mod | Checks how many channels the given user is a mod in |
-| myid | Provides the id of the command executer |
+| modcheck | Checks how many channels the given user is a mod in |
 | partner | Checks if the inputted user is partner or not |
 | ping | Pings the bot 4Head |
 | pingme | Pings the user who executed the command |
